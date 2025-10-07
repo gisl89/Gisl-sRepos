@@ -9,6 +9,39 @@
   "featuredApps": [],
   "apps": [
     {
+      "name": "Mercury",
+      "bundleIdentifier": "com.tripleglazedstudios.Weather",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/BTt4Uht.png",
+      "tintColor": "#6156e2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://altstudio.gisl.me/MercuryWeatherPro3.0.ipa",
+          "size": 54300000,
+          "version": "3.0",
+          "buildVersion": null,
+          "date": "2025-10-07T18:39:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor",
+          "NSLocationUsageDescription": "Mercury requires location permission to show you the forecast for your current location.",
+          "NSLocationWhenInUseUsageDescription": "Mercury requires location permission to show you the forecast for your current location.",
+          "NSPhotoLibraryAddUsageDescription": "Mercury requires permission to add the screenshot to your photo library."
+        }
+      },
+      "patreon": {}
+    },
+    {
       "name": "NoFace",
       "bundleIdentifier": "com.openai.noface",
       "marketplaceID": "",
