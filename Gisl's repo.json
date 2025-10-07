@@ -9,6 +9,38 @@
   "featuredApps": [],
   "apps": [
     {
+      "name": "NoFace",
+      "bundleIdentifier": "com.openai.noface",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/g1PGalo.png",
+      "tintColor": "#244c7c",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://altstudio.gisl.me/Sora.openai.ipa",
+          "size": 85900000,
+          "version": "1.2025.276",
+          "buildVersion": null,
+          "date": "2025-10-07T18:30:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Sora allows you to record yourself, which will then be used to create your cameo.",
+          "NSPhotoLibraryAddUsageDescription": "Sora lets you save content you've created",
+          "NSMicrophoneUsageDescription": "Sora uses your microphone to assist with content creation."
+        }
+      },
+      "patreon": {}
+    },
+    {
       "name": "Twitch",
       "bundleIdentifier": "tv.twitch",
       "marketplaceID": "",
