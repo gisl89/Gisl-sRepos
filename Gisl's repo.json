@@ -9,6 +9,55 @@
   "featuredApps": [],
   "apps": [
     {
+      "name": "Facebook",
+      "bundleIdentifier": "com.facebook.Facebook",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/J7dNadg.png",
+      "tintColor": "#0c64fc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://alstudio.gisl.me",
+          "size": 161700000,
+          "version": "534.0.0",
+          "buildVersion": null,
+          "date": "2025-10-08T06:22:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://facebook.com",
+          "NSAppleMusicUsageDescription": "Facebook uses access to your media library to do things like help you play music and other audio from your device, and to save audio to your device.",
+          "NSBluetoothAlwaysUsageDescription": "Facebook uses Bluetooth so you can do things like find and connect to devices and cast videos to TV.",
+          "NSBluetoothPeripheralUsageDescription": "Facebook uses Bluetooth so you can do things like find and connect to devices and cast videos to TV.",
+          "NSCalendarsFullAccessUsageDescription": "This will let Facebook sync events you're hosting or attending to your calendar.",
+          "NSCalendarsUsageDescription": "This will let Facebook sync events you're hosting or attending to your calendar.",
+          "NSCameraUsageDescription": "Facebook uses access to your camera to do things like help you take and share photos, record videos, and use visual effects.\n\nYou can always change this in your device settings.",
+          "NSContactsUsageDescription": "Allowing access to your address book helps you see the contacts you can choose to add and helps us provide a better service.",
+          "NSFaceIDUsageDescription": "Enable Face ID for quick and secure authentication on Facebook.",
+          "NSLocalNetworkUsageDescription": "Facebook uses your local network so you can do things like find and connect to devices and cast videos to TV.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Facebook uses this to provide more relevant and personalized experiences, like helping you check-in, find local events and get better ads.",
+          "NSLocationWhenInUseUsageDescription": "Facebook uses this to provide more relevant and personalized experiences, like helping you check-in, find local events and get better ads.",
+          "NSMicrophoneUsageDescription": "Facebook uses access to your microphone to do things like help you record audio, identify songs, search with your voice and use audio effects.\n\nYou can always change this in your device settings.",
+          "NSMotionUsageDescription": "Facebook uses this to provide more relevant and personalized experiences.",
+          "NSPhotoLibraryAddUsageDescription": "Facebook uses access to your photos to do things like help you save images to your device, share and apply visual effects to your photos and videos, and to suggest photos and videos to share.",
+          "NSPhotoLibraryUsageDescription": "Facebook uses access to your photos to do things like help you share and apply visual effects to your photos and videos, and to suggest photos and videos to share.",
+          "NSPrincipalClass": "FBApplication",
+          "NSSiriUsageDescription": "This will let Siri help you look for photos on Facebook",
+          "NSSpeechRecognitionUsageDescription": "Facebook will use speech recognition to detect your confirmation.",
+          "NSUserTrackingUsageDescription": "This helps Facebook personalize ads we show you."
+        }
+      },
+      "patreon": {}
+    },
+    {
       "name": "Mercury",
       "bundleIdentifier": "com.tripleglazedstudios.Weather",
       "marketplaceID": "",
@@ -21,12 +70,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://altstudio.gisl.me/MercuryWeatherPro3.0.ipa",
-          "size": 54300000,
           "version": "3.0",
-          "buildVersion": null,
           "date": "2025-10-07T18:39:00+02:00",
           "localizedDescription": null,
+          "downloadURL": "https://altstudio.gisl.me/MercuryWeatherPro3.0.ipa",
+          "size": 54300000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -54,12 +103,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://altstudio.gisl.me/Sora.openai.ipa",
-          "size": 85900000,
           "version": "1.2025.276",
-          "buildVersion": null,
           "date": "2025-10-07T18:30:00+02:00",
           "localizedDescription": null,
+          "downloadURL": "https://altstudio.gisl.me/Sora.openai.ipa",
+          "size": 85900000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -86,12 +135,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://altstudio.gisl.me/Twitch24.2.4adfree.ipa",
-          "size": 120200000,
           "version": "24.2.4",
-          "buildVersion": null,
           "date": "2025-10-07T18:16:00+02:00",
           "localizedDescription": null,
+          "downloadURL": "https://altstudio.gisl.me/Twitch24.2.4adfree.ipa",
+          "size": 120200000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -120,12 +169,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://altstudio.gisl.me/Instagramv400.1.0IG.ipa",
-          "size": 269600000,
           "version": "400.1.0",
-          "buildVersion": null,
           "date": "2025-10-07T18:13:00+02:00",
           "localizedDescription": null,
+          "downloadURL": "https://altstudio.gisl.me/Instagramv400.1.0IG.ipa",
+          "size": 269600000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -164,12 +213,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://altstudio.gisl.me/YouTubeOLED20.40.4.ipa",
-          "size": 127400000,
           "version": "20.40.4",
-          "buildVersion": null,
           "date": "2025-10-07T18:12:00+02:00",
           "localizedDescription": null,
+          "downloadURL": "https://altstudio.gisl.me/YouTubeOLED20.40.4.ipa",
+          "size": 127400000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -202,12 +251,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://altstudio.gisl.me/TWIGalaxy11.28.ipa",
-          "size": 154000000,
           "version": "11.28",
-          "buildVersion": null,
           "date": "2025-10-07T16:10:00+02:00",
           "localizedDescription": null,
+          "downloadURL": "https://altstudio.gisl.me/TWIGalaxy11.28.ipa",
+          "size": 154000000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
